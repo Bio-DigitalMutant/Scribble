@@ -1,7 +1,7 @@
 # Scribble
 
 
-This application utilizies Express.js to operate a simple note taking app for streamlining daily tasks. Formulating GET and POST requests to transfer our stored JSON data, this app demonstrates the easy functionality of Express.js.
+This application utilizes Express.js to operate a simple note taking app for streamlining daily tasks. Formulating GET and POST requests to transfer our stored JSON data, this app demonstrates the easy functionality of Express.js.
 
 GIVEN a note-taking application
 WHEN I open the Note Taker
@@ -17,8 +17,9 @@ THEN that note appears in the right-hand column
 WHEN I click on the Write icon in the navigation at the top of the page
 THEN I am presented with empty fields to enter a new note title and the note’s text in the right-hand column
 
+Additionally, this application will identify a specific note and DELETE the specified note by a generated identification number.
 
 To view this Github repository, follow this link:
-
+https://github.com/ascendedkrishna/Scribble.git
 
 To view this simple app on Heroku, follow this link:
