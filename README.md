@@ -20,7 +20,7 @@ THEN I am presented with empty fields to enter a new note title and the note’s
 Additionally, this application will identify a specific note and DELETE the specified note by a generated identification number.
 
 To view this Github repository, follow this link:
-https://github.com/ascendedkrishna/Scribble.git
+https://github.com/Bio-DigitalMutant/Scribble.git
 
 To view this simple app on Heroku, follow this link:
 https://morning-escarpment-75110.herokuapp.com/
